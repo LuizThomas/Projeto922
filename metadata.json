@@ -1,0 +1,6 @@
+{
+  "name": "Capítulo Tio Paulo Romeu Homem de Oliveira Nº 922",
+  "description": "Site institucional oficial do Capítulo Tio Paulo Romeu Homem de Oliveira Nº 922 da Ordem DeMolay em Cedro, Ceará. Tradição, liderança, fraternidade e formação juvenil de excelência.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
